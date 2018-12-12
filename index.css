@@ -1,9 +1,21 @@
-  .column {
+   .column {
     float: left;
     width: 50%;
 }  
   
+ .zoom {
+  padding: 20px;
+  background-color: transparent;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
 
+.zoom:hover {
+  transform: scale(1.2);
+}
+  
   .column-left
   { 
     position: absolute;
