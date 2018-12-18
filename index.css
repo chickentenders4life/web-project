@@ -1,4 +1,5 @@
-   .column {
+
+    .column {
     float: left;
     width: 50%;
 }  
@@ -6,7 +7,7 @@
  .zoom {
   padding: 20px;
   background-color: transparent;
-  transition: transform .2s;
+  transition: transform .3s;
   width: 200px;
   height: 200px;
   margin: 0 auto;
