@@ -9,7 +9,7 @@
   { 
     position: absolute;
     left: 30px;
-    top: 290px;
+    top: 330px;
   }
   
   
@@ -17,7 +17,7 @@
   { 
     position: absolute;
     left: 580px;
-    top: 370px;
+    top: 410px;
   }
   
   
@@ -25,14 +25,14 @@
   { 
    position: absolute;
     left: 320px;
-    top: 300px;
+    top: 340px;
   }
   
    .column-left1
   { 
     position: absolute;
     left: 40px;
-    top: 760px;
+    top: 810px;
   }
   
   hr{
@@ -46,7 +46,7 @@
   { 
     position: absolute;
     left: 600px;
-    top: 805px;
+    top: 845px;
   }
   
   
@@ -54,7 +54,7 @@
   { 
    position: absolute;
     left: 325px;
-    top: 800px;
+    top: 845px;
   }
   
   
@@ -72,5 +72,5 @@
     font-family: "veranda", sans-serif;
     width:850px;
     background-color: #E3E3E3;
-  }
     
+  
