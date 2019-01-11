@@ -6,7 +6,12 @@ input {
   box-sizing: border-;
 }
 
-
+input[type=submit] {
+  width: 80px;
+  padding: 5px 20px;
+  margin: 0px 295px;
+  box-sizing: border-;
+}
 
 
 
